@@ -21,9 +21,9 @@ Para a opreção de dividir: <br>
 http://localhost:3000/calculadora/divisao?num1=10&num2=5 <br>
 ##### Obs.: você pode mudar os valores de "num1" e "num2" na URL para testar outros resultados.
 ## CONTRIBUIÇOES:
-1-	Faça o FORK do projeto no canto superios direito da tela; 
-2-	Clone o projeto do seu repositório no Gthub
-3-	Crie sua branch para poder realizar modificações
-4-	Ao terminar sua modificações, faça um commit : git commit –m 
-5-	Realize o Push para seu repositório : git push
-6-	No seu repositório no Github faça uma PR(Pull request)
+1-	Faça o FORK do projeto no canto superios direito da tela; <br>
+2-	Clone o projeto do seu repositório no Gthub <br>
+3-	Crie sua branch para poder realizar modificações <br>
+4-	Ao terminar sua modificações, faça um commit : git commit –m <br>
+5-	Realize o Push para seu repositório : git push <br>
+6-	No seu repositório no Github faça uma PR(Pull request) <br>
