@@ -13,12 +13,16 @@
 ## EXECUTANDO OS TESTES:
 Para a opreção de somar: <br>
 http://localhost:3000/calculadora/soma?num1=10&num2=5 <br>
+<img src="./img/somar.PNG">
 Para a opreção de subtrair: <br>
 http://localhost:3000/calculadora/subtracao?num1=10&num2=5 <br>
+<img src="./img/subtrair.PNG">
 Para a opreção de multiplicar: <br>
 http://localhost:3000/calculadora/multiplicacao?num1=10&num2=5 <br>
+<img src="./img/multipliar.PNG">
 Para a opreção de dividir: <br>
 http://localhost:3000/calculadora/divisao?num1=10&num2=5 <br>
+<img src="./img/dividir.PNG">
 ##### Obs.: você pode mudar os valores de "num1" e "num2" na URL para testar outros resultados.
 ## CONTRIBUIÇOES:
 1-	Faça o FORK do projeto no canto superios direito da tela; <br>
