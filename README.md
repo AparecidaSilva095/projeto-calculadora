@@ -11,14 +11,14 @@
 4-	Execute o projeto com o seguinte comando:npm run dev
 5-	Acessar em: http://localhost:3000
 ## EXECUTANDO OS TESTES:
-Para a opreção de somar: 
-http://localhost:3000/calculadora/soma?num1=10&num2=5
-Para a opreção de subtrair: 
-http://localhost:3000/calculadora/subtracao?num1=10&num2=5
-Para a opreção de multiplicar: 
-http://localhost:3000/calculadora/multiplicacao?num1=10&num2=5
-Para a opreção de dividir: 
-http://localhost:3000/calculadora/divisao?num1=10&num2=5
+Para a opreção de somar: <br>
+http://localhost:3000/calculadora/soma?num1=10&num2=5 <br>
+Para a opreção de subtrair: <br>
+http://localhost:3000/calculadora/subtracao?num1=10&num2=5 <br>
+Para a opreção de multiplicar: <br>
+http://localhost:3000/calculadora/multiplicacao?num1=10&num2=5 <br>
+Para a opreção de dividir: <br>
+http://localhost:3000/calculadora/divisao?num1=10&num2=5 <br>
 ##### Obs.: você pode mudar os valores de "num1" e "num2" na URL para testar outros resultados.
 ## CONTRIBUIÇOES:
 1-	Faça o FORK do projeto no canto superios direito da tela; 
